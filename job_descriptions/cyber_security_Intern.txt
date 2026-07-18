@@ -1,0 +1,53 @@
+===================================================
+JOB DESCRIPTION
+===================================================
+
+Job Title:
+Cyber Security Intern
+
+Department:
+Cyber Security
+
+Location:
+Ahmedabad
+
+Employment Type:
+Internship
+
+Experience Required:
+0-1 Years
+
+Education:
+B.Tech/B.E. in Computer Science, Information Technology, Cyber Security or related field.
+
+Required Skills:
+- Python
+- Networking Fundamentals
+- Cyber Security
+- Intrusion Detection Systems (IDS)
+- Machine Learning Basics
+- Scapy
+- Linux
+- Git
+
+Preferred Skills:
+- Wireshark
+- OpenCV
+- Tkinter
+
+Responsibilities:
+- Monitor network traffic.
+- Analyze security logs.
+- Assist in vulnerability assessments.
+- Develop Python automation scripts.
+- Support IDS implementation.
+- Document security findings.
+
+Nice to Have:
+Knowledge of Ethical Hacking.
+
+Salary Range:
+Internship Stipend
+
+Reporting To:
+Cyber Security Lead

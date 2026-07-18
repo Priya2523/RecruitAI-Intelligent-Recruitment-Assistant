@@ -1,0 +1,51 @@
+===================================================
+JOB DESCRIPTION
+===================================================
+
+Job Title:
+Full Stack Developer Intern
+
+Department:
+Software Development
+
+Location:
+Vadodara
+
+Employment Type:
+Internship
+
+Experience Required:
+0-1 Years
+
+Education:
+B.Tech/B.E. Computer Science
+
+Required Skills:
+- ASP.NET
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- MySQL
+- Firebase
+
+Preferred Skills:
+- Flutter
+- Figma
+
+Responsibilities:
+- Build responsive web applications.
+- Develop backend APIs.
+- Connect applications with databases.
+- Debug and test applications.
+- Participate in code reviews.
+
+Nice to Have:
+Basic Android Development.
+
+Salary Range:
+Internship Stipend
+
+Reporting To:
+Technical Lead
