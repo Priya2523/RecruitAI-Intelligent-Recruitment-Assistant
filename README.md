@@ -195,10 +195,10 @@ https://recruitai-intelligent-recruitment.onrender.com/
 
 ## 📸 Screenshots
 
-![Upload & Dashboard](screenshots/image1.png)
-![Candidate Ranking](screenshots/image2.png)
-![Candidate Profile](screenshots/image3.png)
-![Analytics](screenshots/image6.png)
+![Upload & Dashboard](screenshots/image_1.png)
+![Candidate Ranking](screenshots/image_2.png)
+![Candidate Profile](screenshots/image_3.png)
+![Analytics](screenshots/image_6.png)
 
 # 📊 Output
 
