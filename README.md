@@ -198,7 +198,10 @@ https://recruitai-intelligent-recruitment.onrender.com/
 ![Upload & Dashboard](screenshots/image_1.png)
 ![Candidate Ranking](screenshots/image_2.png)
 ![Candidate Profile](screenshots/image_3.png)
-![Analytics](screenshots/image_6.png)
+![Candidate Profile](screenshots/image_4.png)
+![Candidate Profile](screenshots/image_5.png)
+![Candidate Profile](screenshots/image_6.png)
+![Analytics](screenshots/image_7.png)
 
 # 📊 Output
 
