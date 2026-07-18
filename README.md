@@ -193,6 +193,13 @@ https://recruitai-intelligent-recruitment.onrender.com/
 
 ---
 
+## 📸 Screenshots
+
+![Upload & Dashboard](screenshots/image1.png)
+![Candidate Ranking](screenshots/image2.png)
+![Candidate Profile](screenshots/image3.png)
+![Analytics](screenshots/image6.png)
+
 # 📊 Output
 
 The application generates:
